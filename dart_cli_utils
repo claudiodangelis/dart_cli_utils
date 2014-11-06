@@ -1,4 +1,4 @@
 DART_CLI_UTILS_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 source "$DART_CLI_UTILS_DIR/utils/run_dartium"
 source "$DART_CLI_UTILS_DIR/utils/dart_switch"
-
+source "$DART_CLI_UTILS_DIR/utils/dart_update"
